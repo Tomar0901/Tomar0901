@@ -1,6 +1,6 @@
 ## Hi I am Lokendra 👋,
 # 💫 About Me:
-MERN Stack Developer | React & Node.js Building real-world projects like HungerBuddy Open to Full Stack Developer Opportunities
+MERN Stack Developer | React & Node.js | Building real-world projects like HungerBuddy Open to Full Stack Developer Opportunities
 
 
 ## 🌐 Socials:
