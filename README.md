@@ -1,4 +1,4 @@
-## Hi I am Lokendra 👋,
+## Hi I am Lokendra Singh👋,
 # 💫 About Me:
 MERN Stack Developer | React & Node.js | Building real-world projects like HungerBuddy Open to Full Stack Developer Opportunities
 
